@@ -1,5 +1,6 @@
 [
   {
+    "id": 1,
     "question": "Which device is required for the Internet connection?",
     "option1": "Modem",
     "option2": "Router",
@@ -8,6 +9,7 @@
     "ans": 1
   },
   {
+    "id": 2,
     "question": "Which continent has the highest number of countries?",
     "option1": "Asia",
     "option2": "Europe",
@@ -16,6 +18,7 @@
     "ans": 4
   },
   {
+    "id": 3,
     "question": "Junk e-mail is also called?",
     "option1": "Spam",
     "option2": "Fake",
@@ -24,6 +27,7 @@
     "ans": 1
   },
   {
+    "id": 4,
     "question": "A computer cannot BOOT if it does not have the?",
     "option1": "Application Software",
     "option2": "Internet",
@@ -32,6 +36,7 @@
     "ans": 3
   },
   {
+    "id": 5,
     "question": "First page of Website is termed as?",
     "option1": "Index Page",
     "option2": "Homepage",
